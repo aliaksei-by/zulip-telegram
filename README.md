@@ -1,8 +1,8 @@
 # Zulip to Telegram gate
 
-This bot forwards messages from Zulip, in which keywords are mentioned, to a Telegram Bot.
+This bot forwards messages from Zulip channels, in which keywords are mentioned, to a Telegram Bot. It also forwards private messages from Zulip.
 
-# Setup
+## Setup
 
 The configuration setup is intuitive and requires no special explanations.
 
